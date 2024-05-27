@@ -24,7 +24,7 @@ To run this project, you need to have Python installed along with the following 
 
 1. Clone the repository from GitHub:
     ```sh
-    git clone https://github.com/Surya22pc/voice-activated-personal-assistant.git
+    git clone https://github.com/Surya22pc/VOICE-ASSISTED-PERSONAL-ASSIATANT-CHATBOT.git
     cd voice-activated-personal-assistant
     ```
 
