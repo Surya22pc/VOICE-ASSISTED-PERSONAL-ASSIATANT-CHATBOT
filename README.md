@@ -1,4 +1,4 @@
-# VOICE-ASSISTED-PERSONAL-ASSIATANT-CHATBOT
+
 # Voice-Activated Personal Assistant
 
 This project is a simple voice-activated personal assistant that can perform basic tasks like opening websites, playing music, and searching Wikipedia. The assistant listens for voice commands, processes them, and executes the corresponding actions.
