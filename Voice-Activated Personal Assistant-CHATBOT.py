@@ -42,10 +42,6 @@ def process_query(query):
         webbrowser.open("https://www.google.com")
     elif 'play music' in query:
         music_dir = r"C:\MUSIC"  # Specify the path to your music directory
-    elif 'guntur karam' in query:
-        speak("playing kurchimadatapeti song from guntur karam movie directed by trivikram Srinivas,Starts SUPER STAR MAHESHBABU,SREELEELA")
-        webbrowser.open("https://youtu.be/gh3FyLT7WVg?si=6xhjfNPruNOvswn7")
-        
         songs = os.listdir(music_dir)
         os.startfile(os.path.join(music_dir, songs[0]))  # Change this to play a random song if needed
     elif 'wikipedia' in query:
